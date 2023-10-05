@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primera aplicación</string>
+    <string name="hello_dio">Hola mundo</string>
+    <string name="info_dio">Esta aplicación está en español</string>
+</resources>

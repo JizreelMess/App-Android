@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First App Dio</string>
+    <string name="hello_dio">Hello World</string>
+    <string name="info_dio">This app is in English</string>
+</resources>

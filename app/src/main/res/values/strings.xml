@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeiroAppDio</string>
+    <string name="hello_dio">Olá mundo</string>
+    <string name="info_dio">Esta aplicação está em Português.</string>
+</resources>
